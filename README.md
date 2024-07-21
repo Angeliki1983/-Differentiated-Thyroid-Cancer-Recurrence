@@ -28,9 +28,9 @@ The dataset used in this project can be accessed [here](https://archive.ics.uci.
 ### Getting Started
 
 1. **Clone the Repository:** `git clone https://github.com/yourusername/differentiated-thyroid-cancer-recurrence.git`
-2. **Install Dependencies:** Install the required Python libraries listed in `requirements.txt`.
-3. **Explore the Data:** Begin by examining the data in the provided Jupyter notebooks.
-4. **Run Analysis:** Follow the notebooks to perform data preprocessing, model building, and evaluation.
+
+2. **Explore the Data:** Begin by examining the data in the provided Jupyter notebooks.
+3. **Run Analysis:** Follow the notebooks to perform data preprocessing, model building, and evaluation.
 
 ### Contributing
 
